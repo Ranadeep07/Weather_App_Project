@@ -1,0 +1,19 @@
+{
+  "name": "weather_app_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ranadeep07/Weather_App_Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ranadeep07/Weather_App_Project/issues"
+  },
+  "homepage": "https://github.com/Ranadeep07/Weather_App_Project#readme"
+}
